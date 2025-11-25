@@ -1,0 +1,1 @@
+Sample Optuna HPO results (placeholder)\n\nBest value (RMSE): 12.345600\nBest params:\n  hidden_dim: 64\n  num_layers: 2\n  dropout: 0.1\n  lr: 0.001\n  batch_size: 32\n\nNotes:\nRun optuna_hpo.py locally with --data_csv path_to_csv to generate real results.\n
