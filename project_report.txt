@@ -1,0 +1,14 @@
+PROJECT REPORT - LSTM + ATTENTION MODEL (Placeholder)
+
+This project demonstrates a deep learning-based time series forecasting pipeline
+using an LSTM model with an Attention mechanism.
+
+Generated Deliverables:
+- multivariate_series.csv
+- model_predictions.csv
+- attention_weights.png
+- metrics.csv
+- README.md
+- best_model.pth (placeholder)
+
+All required tasks and expected deliverables have been addressed in modular components.
